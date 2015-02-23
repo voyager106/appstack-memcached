@@ -1,6 +1,8 @@
 ############################################################
 # Dockerfile to run Memcached Containers
 # Based on Centos Image
+# Created using directions at 
+# https://www.digitalocean.com/community/tutorials/docker-explained-how-to-create-docker-containers-running-memcached
 ############################################################
 
 # Set the base image to use to Centos
